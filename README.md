@@ -105,7 +105,7 @@ gcc exploit.c -o exploit.exe
 ## 📞 联系方式
 
 - **GitHub Issues** - 提交问题和建议
-- **Email** - clearcdq@gmail.com
+- **Email** - 1940507222@qq.com
 
 ## 📄 许可证
 
